@@ -1,0 +1,1 @@
+Para traduzir, basta copiar a pasta "game" da tradução e colar na pasta do jogo.
